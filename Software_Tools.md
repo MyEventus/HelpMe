@@ -3,7 +3,7 @@ last_update: 2023Apr16
 share: true    
 ---  
   
-[Home](https://obsius.site/39626m6233366i2i2j17)  
+[Home]([index](index.md))  
   
 ```  
   
