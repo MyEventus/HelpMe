@@ -5,7 +5,6 @@ share: true
   
   
 ```  
-  
 Note: In no way shape or form am I affiliated with any of the following.  
 ```  
   
