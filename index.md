@@ -22,8 +22,8 @@ To prevent answering the same (computer / internet) related question to my frien
 [About](./About.md)  
   
 ## Obsidian  
-[Help-Obsidian-Novice](Help-Obsidian-Novice.md)  
-[Help-Obsidian-Advanced](Help-Obsidian-Advanced.md)  
+[Help-Obsidian-Novice](./Help-Obsidian-Novice.md)  
+[Help-Obsidian-Advanced](./Help-Obsidian-Advanced.md)  
   
 ---  
   
@@ -33,7 +33,7 @@ To prevent answering the same (computer / internet) related question to my frien
 ---  
   
 ## OS-Windows  
-- [OS-Windows-Tweaks_And_Debloat](OS-Windows-Tweaks_And_Debloat.md)  
+- [OS-Windows-Tweaks_And_Debloat](./OS-Windows-Tweaks_And_Debloat.md)  
   
 ---  
   
@@ -41,4 +41,4 @@ To prevent answering the same (computer / internet) related question to my frien
 - Soon..  
   
 ## Docker  
-- [Docker_Cheatsheet](Docker_Cheatsheet.md)  
+- [Docker_Cheatsheet](./Docker_Cheatsheet.md)  
