@@ -4,7 +4,7 @@ share: true
 ---  
   
 Morse Code:  
-![Pasted image 20230310195200.png](./Public_Obsius/Attachments/Pasted%20image%2020230310195200.png)  
+![Pasted image 20230310195200.png](./Public/Attachments/Pasted%20image%2020230310195200.png)  
   
 FYI:  
 From what I understand.  
