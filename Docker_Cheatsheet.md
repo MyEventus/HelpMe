@@ -140,12 +140,12 @@ docker rm $(docker ps -a -f status=exited -q).
   
 ## CREATE IMAGE FROM CONTAINER..   
   
-sudo docker commit 2be21a3b5821 c948229Al.H/wd-nodered-template:v1.00   
+sudo docker commit 2be21a3b5821 name-here/wd-nodered-template:v1.00   
   
   
 ## SAVE THE IMAGE TO A TAR FILE..   
   
-sudo docker save -o cWorkID Al.H/wd-nodered-template:v1.00.tar c948229Al.H/wd-nodered-template:v1.00 or sudo docker save c948229Al.H/wd-nodered-template:v1.00 > wd-nodered-template.tar   
+sudo docker save -o cWorkID Al.H/wd-nodered-template:v1.00.tar name-here/wd-nodered-template:v1.00 or sudo docker save name-here/wd-nodered-template:v1.00 > wd-nodered-template.tar   
   
   
 ## MOVE FILE ON USB STICK TO TARGET.  
@@ -156,7 +156,7 @@ sudo docker load docker load < wd-nodered-template.tar
   
 ## THEN TREAT AS YOU WOULD ANY IMAGE ON TARGE DEVICE.   
   
-sudo docker run -it -p 1880:1880 c948229Al.H/wd-nodered-template:v1.00  
+sudo docker run -it -p 1880:1880 name-here/wd-nodered-template:v1.00  
   
   
 ## Purging All Unused or Dangling Images, Containers, Volumes, and Networks  
