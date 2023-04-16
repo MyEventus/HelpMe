@@ -5,7 +5,7 @@ share: true
   
 #help #org-micromacro   
   
-[Home](https://obsius.site/39626m6233366i2i2j17)  
+  
 # Overview  
   
  [Obsidian](http://obsidian.md)   
