@@ -19,18 +19,18 @@ Aim
 To prevent answering the same (computer / internet) related question to my friends multiple times I'm simply just going to send them here. :)  
   
   
-[About](./About.md)  
+- [About](./About.md)  
   
 ## Obsidian  
 Description: Free and open source personal note taking app.  
 Mobile: Yes  
-[Help-Obsidian-Novice](./Help-Obsidian-Novice.md)  
-[Help-Obsidian-Advanced](./Help-Obsidian-Advanced.md)  
+- [Help-Obsidian-Novice](./Help-Obsidian-Novice.md)  
+- [Help-Obsidian-Advanced](./Help-Obsidian-Advanced.md)  
   
 ---  
   
 ## Generic Software Tools  
-[Software_Tools](./Software_Tools.md)  
+- [Software_Tools](./Software_Tools.md)  
   
 ---  
 ## Apple:  
