@@ -33,14 +33,21 @@ Mobile: Yes
 [Software_Tools](./Software_Tools.md)  
   
 ---  
+## Apple:  
   
-## OS-Windows  
+### MACOSX  
+- [OS-MacOS-VM](./OS-MacOS-VM.md)  
+  
+  
+## Microsoft:  
+### OS-Windows  
 - [OS-Windows-Tweaks_And_Debloat](./OS-Windows-Tweaks_And_Debloat.md)  
   
 ---  
   
-## OS-Linux  
+## Linux:  
 - Soon..  
+  
   
 ## Docker  
 - [Docker_Cheatsheet](./Docker_Cheatsheet.md)  
