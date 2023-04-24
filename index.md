@@ -39,7 +39,8 @@ Mobile: Yes
 ### MACOSX  
 - [OS-MacOS-VM](Technical/Apple/OS-MacOS-VM.md)  
   
-  
+---
+
 ## Microsoft:  
 ### OS-Windows  
 - [OS-Windows-Tweaks_And_Debloat](Technical/OS/Windows/OS-Windows-Tweaks_And_Debloat.md)  
@@ -48,10 +49,13 @@ Mobile: Yes
   
 ## Linux:  
 - Soon..  
-  
+
+---
 ## Ansible:
-	[Setup Win Ansible On Windows](Technical/Ansible/Setup%20Win%20Ansible%20On%20Windows.md)
+
+- [Setup Win Ansible On Windows](Technical/Ansible/Setup%20Win%20Ansible%20On%20Windows.md)
 	
-	
+---
+
 ## Docker  
 - [Docker_Cheatsheet](Technical/Docker/Docker_Cheatsheet.md)  
