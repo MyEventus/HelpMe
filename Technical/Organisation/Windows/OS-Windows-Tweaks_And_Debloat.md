@@ -5,9 +5,9 @@ share: true
   
   
 - ChrisTitius.com Windows Tweaks (Ex-Debloated)  
-	- Was called "Debloat" now called 
+	- Was called "Debloat" now called "The Ultimate Windows Utility"
 	- https://christitus.com/windows-tool/
-	- PowerShell as administrator.  
-```  
-iwr -useb https://christitus.com/win iex  
-```
+	- How?
+		- Open "Powershel" as Admini```  
+		iwr -useb https://christitus.com/win iex  
+		```
