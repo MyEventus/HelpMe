@@ -25,8 +25,8 @@ To prevent answering the same (computer / internet) related question to my frien
 Description: Free and open source personal note taking app.  
 Mobile: Yes  
 	
-- [Help-Obsidian-Novice](Technical/Obsidian/Help-Obsidian-Novice.md)  
-- [Help-Obsidian-Advanced](Technical/Obsidian/Help-Obsidian-Advanced.md)  
+- [Help-Obsidian-Novice](Technical/Organisation/Obsidian/Help-Obsidian-Novice.md)  
+- [Help-Obsidian-Advanced](Technical/Organisation/Obsidian/Help-Obsidian-Advanced.md)  
   
 ---  
   
@@ -38,13 +38,13 @@ Mobile: Yes
 ## Apple:  
   
 ### MACOSX  
-- [OS-MacOS-VM](Technical/Apple/OS-MacOS-VM.md)  
+- [OS-MacOS-VM](Technical/Organisation/Apple/OS-MacOS-VM.md)  
   
 ---
 
 ## Microsoft:  
 ### OS-Windows  
-- [OS-Windows-Tweaks_And_Debloat](Technical/OS/Windows/OS-Windows-Tweaks_And_Debloat.md)  
+- [OS-Windows-Tweaks_And_Debloat](Technical/Organisation/Windows/OS-Windows-Tweaks_And_Debloat.md)  
   
 ---  
   
@@ -54,9 +54,9 @@ Mobile: Yes
 ---
 ## Ansible:
 
-- [Setup Win Ansible On Windows](Technical/Ansible/Setup%20Win%20Ansible%20On%20Windows.md)
+- [Setup Win Ansible On Windows](Technical/Organisation/Ansible/Setup%20Win%20Ansible%20On%20Windows.md)
 	
 ---
 
 ## Docker  
-- [Docker_Cheatsheet](Technical/Docker/Docker_Cheatsheet.md)  
+- [Docker_Cheatsheet](Technical/Organisation/Docker/Docker_Cheatsheet.md)  
