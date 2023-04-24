@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Software_Tools.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "About.md"
               }
             }
           }
@@ -171,15 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "378b3288d4047e61",
+  "active": "4ca6b2336c80417e",
   "lastOpenFiles": [
+    "Technical/Software_Tools.md",
+    "index.md",
     "Technical/Organisation/Windows/OS-Windows-Tweaks_And_Debloat.md",
     "Technical/Organisation/Apple/OS-MacOS-VM.md",
-    "index.md",
     "Technical/Organisation/FOSS",
     "Technical/Organisation",
     "About.md",
-    "Technical/Software_Tools.md",
     "ReadMe.md",
     "README-FR.md",
     "Technical/Organisation/Ansible",
