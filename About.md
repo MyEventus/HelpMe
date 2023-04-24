@@ -4,7 +4,9 @@ share: true
 ---  
   
 About Page:  
-Intended to be simple.
-Retoric free.
-Public access (read)
-Public access (write/)
+- Intended to be simple.
+- Retoric free.
+- Public access (read) via GitHub.
+- Public access (write/edit/update) via Pull requests on GitHub
+	- Please contribute.
+	- To assist other having to re-lean
