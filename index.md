@@ -29,8 +29,8 @@ To prevent answering the same (computer / internet) related question to my frien
 ## Obsidian  
 Description: Free and open source personal note taking app.  
 Mobile: Yes  
-- [Help-Obsidian-Novice](./Help-Obsidian-Novice.md)  
-- [Help-Obsidian-Advanced](./Help-Obsidian-Advanced.md)  
+- [Help-Obsidian-Novice](Technical/Obsidian/Help-Obsidian-Novice.md)  
+- [Help-Obsidian-Advanced](Technical/Obsidian/Help-Obsidian-Advanced.md)  
   
 ---  
   
@@ -41,7 +41,7 @@ Mobile: Yes
 ## Apple:  
   
 ### MACOSX  
-- [OS-MacOS-VM](./OS-MacOS-VM.md)  
+- [OS-MacOS-VM](Technical/Apple/OS-MacOS-VM.md)  
   
   
 ## Microsoft:  
