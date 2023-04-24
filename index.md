@@ -12,7 +12,6 @@ Last Update: 2023Apr16
 ## Welcome to my test page from Obsidian.   
   
 Share / Send this link to others:  
-  
 <a href="https://myeventus.github.io/helpme">https://myeventus.github.io/helpme</a>  
   
 Aim  
