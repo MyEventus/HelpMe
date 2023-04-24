@@ -30,8 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "378b3288d4047e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Organisation/Windows/OS-Windows-Tweaks_And_Debloat.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Organisation/Windows/OS-Windows-Tweaks_And_Debloat.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Organisation/Windows/OS-Windows-Tweaks_And_Debloat.md"
+                "file": "index.md"
               }
             }
           }
@@ -158,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4628e5a8414b54bd",
+  "active": "378b3288d4047e61",
   "lastOpenFiles": [
+    "Technical/Organisation/Windows/OS-Windows-Tweaks_And_Debloat.md",
     "Technical/Organisation/Apple/OS-MacOS-VM.md",
     "index.md",
     "Technical/Organisation/FOSS",
