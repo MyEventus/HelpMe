@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About.md"
+                "file": "index.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a21cddd27f1ef0b",
+  "active": "4628e5a8414b54bd",
   "lastOpenFiles": [
+    "About.md",
     "index.md",
     "ReadMe.md",
     "README-FR.md",

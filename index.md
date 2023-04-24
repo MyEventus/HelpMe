@@ -20,19 +20,11 @@ To prevent answering the same (computer / internet) related question to my frien
   
 - [About](./About.md)  
 
-```toc
-style: bullet | number | inline (default: bullet)
-min_depth: number (default: 2)
-max_depth: number (default: 6)
-title: string (default: undefined)
-allow_inconsistent_headings: boolean (default: false)
-delimiter: string (default: |)
-varied_style: boolean (default: false)
-```
-  
+ 
 ## Obsidian  
 Description: Free and open source personal note taking app.  
 Mobile: Yes  
+	
 - [Help-Obsidian-Novice](Technical/Obsidian/Help-Obsidian-Novice.md)  
 - [Help-Obsidian-Advanced](Technical/Obsidian/Help-Obsidian-Advanced.md)  
   
@@ -57,6 +49,9 @@ Mobile: Yes
 ## Linux:  
 - Soon..  
   
-  
+## Ansible:
+	[Setup Win Ansible On Windows](Technical/Ansible/Setup%20Win%20Ansible%20On%20Windows.md)
+	
+	
 ## Docker  
 - [Docker_Cheatsheet](Technical/Docker/Docker_Cheatsheet.md)  
