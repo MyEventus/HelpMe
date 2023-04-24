@@ -14,8 +14,6 @@ Last Update: 2023Apr16
 Share / Send this link to others:  
   
 <a href="https://myeventus.github.io/helpme">https://myeventus.github.io/helpme</a>  
-
-
   
 Aim  
 To prevent answering the same (computer / internet) related question to my friends multiple times I'm simply just going to send them here. :)  
