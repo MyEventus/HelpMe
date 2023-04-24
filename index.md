@@ -23,7 +23,10 @@ To prevent answering the same (computer / internet) related question to my frien
   
 - [About](./About.md)  
 
+```toc
+# Home
 
+```
   
 ## Obsidian  
 Description: Free and open source personal note taking app.  
