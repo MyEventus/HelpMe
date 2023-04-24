@@ -16,9 +16,6 @@ Share / Send this link to others:
 <a href="https://myeventus.github.io/helpme">https://myeventus.github.io/helpme</a>  
 
 
-[Test1](Test/Test1.md)
-
-
   
 Aim  
 To prevent answering the same (computer / internet) related question to my friends multiple times I'm simply just going to send them here. :)  
@@ -35,7 +32,7 @@ Mobile: Yes
 ---  
   
 ## Generic Software Tools  
-- [Software_Tools](./Software_Tools.md)  
+- [Software_Tools](Technical/Software_Tools.md)  
   
 ---  
 ## Apple:  
@@ -46,7 +43,7 @@ Mobile: Yes
   
 ## Microsoft:  
 ### OS-Windows  
-- [OS-Windows-Tweaks_And_Debloat](./OS-Windows-Tweaks_And_Debloat.md)  
+- [OS-Windows-Tweaks_And_Debloat](Technical/OS/Windows/OS-Windows-Tweaks_And_Debloat.md)  
   
 ---  
   
