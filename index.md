@@ -22,6 +22,8 @@ To prevent answering the same (computer / internet) related question to my frien
   
   
 - [About](./About.md)  
+
+
   
 ## Obsidian  
 Description: Free and open source personal note taking app.  
