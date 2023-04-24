@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "2a21cddd27f1ef0b",
+            "id": "4ca6b2336c80417e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About.md",
+                "file": "Technical/Software_Tools.md",
                 "mode": "source",
                 "source": true
               }
@@ -162,6 +162,7 @@
   "lastOpenFiles": [
     "About.md",
     "index.md",
+    "Technical/Software_Tools.md",
     "ReadMe.md",
     "README-FR.md",
     "Technical/Ansible",
