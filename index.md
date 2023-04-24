@@ -8,9 +8,7 @@ Last Update: 2023Apr24
   
   
 # Home 
-  
-## Welcome to my test page from Obsidian.   
-  
+    
 Share / Send this link to others:  
 <a href="https://myeventus.github.io/helpme">https://myeventus.github.io/helpme</a>  
   
@@ -30,8 +28,9 @@ Mobile: Yes
   
 ---  
   
-# Generic Software Tools  
-	All Operation Systems:
+# Generic Software Tools.
+
+- All Operation Systems:
 - [Software_Tools](Technical/Software_Tools.md)  
   
 ---  
