@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a4d1c8706bcafe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4628e5a8414b54bd",
-  "lastOpenFiles": []
+  "active": "8a4d1c8706bcafe3",
+  "lastOpenFiles": [
+    "Test/Test1.md",
+    "index.md",
+    "Test"
+  ]
 }

@@ -7,13 +7,15 @@ Date Created: 2022Oct09
 Last Update: 2023Apr16  
   
   
-# Home  v4
+# Home 
   
 ## Welcome to my test page from Obsidian.   
   
 Share / Send this link to others:  
   
 <a href="https://myeventus.github.io/helpme">https://myeventus.github.io/helpme</a>  
+
+[[Test1]]
   
 Aim  
 To prevent answering the same (computer / internet) related question to my friends multiple times I'm simply just going to send them here. :)  
