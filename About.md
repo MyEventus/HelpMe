@@ -11,4 +11,5 @@ About Page:
 	- Please contribute.
 	- Write down life hacks, technical help, process and experiances you went through.
 	- To assist other having to re-lean from scratch.
-	- Add value to society and make
+	- Add value to society and make life easier for others (the next persion).
+- Keep it wll organised (No seach feature yet).
