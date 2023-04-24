@@ -15,9 +15,6 @@ Share / Send this link to others:
   
 <a href="https://myeventus.github.io/helpme">https://myeventus.github.io/helpme</a>  
 
-[[Test1]]
-
-[[Test/Test1]]
 
 [Test1](Test/Test1.md)
 
@@ -58,4 +55,4 @@ Mobile: Yes
   
   
 ## Docker  
-- [Docker_Cheatsheet](./Docker_Cheatsheet.md)  
+- [Docker_Cheatsheet](Technical/Docker/Docker_Cheatsheet.md)  

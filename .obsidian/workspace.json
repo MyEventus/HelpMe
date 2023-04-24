@@ -159,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a4d1c8706bcafe3",
+  "active": "16eb026393eadf16",
   "lastOpenFiles": [
+    "Technical/Docker",
+    "Technical/OS/Windows",
+    "Technical/OS",
+    "Technical",
     "Test/Test1.md",
     "index.md",
     "Test"
